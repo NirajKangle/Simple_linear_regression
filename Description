@@ -1,0 +1,4 @@
+In Lab 3, we have obtained the least squares solution of four families of polynomial models, namely polynomials of degree 1 (linear), 2 (quadratic), 3 (cubic) and 4.
+Least squares is an exact method and provides the optimal model defined by the empirical error surface.
+
+In Lab 4, we have obtained the least squares solution using polyfit function.
